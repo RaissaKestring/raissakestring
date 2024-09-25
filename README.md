@@ -21,6 +21,11 @@
   <a href="https://www.linkedin.com/in/raissa-kestring-salvaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div style="display: flex; justify-content: flex-end; align-items: flex-start;">
+    <img alt="Rafa-CSS" height="210" width="220" src="https://64.media.tumblr.com/207a2341df673ca4514637f67924506a/tumblr_o4tiytNTVK1u2yfqbo1_400.gif">
+</div>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaissaKestring/RaissaKestring/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaissaKestring/RaissaKestring/output/github-contribution-grid-snake.svg">
